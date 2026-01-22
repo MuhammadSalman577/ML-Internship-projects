@@ -1,5 +1,5 @@
 # ML-Internship-projects
-The project consists of two basic ML projects built as task during my Internship with Arch technologies.
+The Repository consists of two basic ML projects built as task during my Internship with Arch technologies.
 The repository contains two projects one is spam email detection model built using python with random forest classifier and other is Mnist digit recognition model built using tensorflow and openCV.
 
 # Spam email detection:
